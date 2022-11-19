@@ -9,7 +9,7 @@ Hi. This is Zhihan GUO (郭芷含). I am a first year Ph.D. student at the [Depa
 Machine Learning, Natural Language Processing, Fact Checking, Fintech
 
 ## Publications
-**2022**
+**2020**
 - **The Hierarchical Acquisition Method of Android System Service Information**
 
   **Zhihan Guo**, Senlin Luo, Dongxiang Ke, Xiaonan Qin
