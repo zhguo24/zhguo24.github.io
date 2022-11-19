@@ -1,11 +1,6 @@
-title: Zhihan Guo
-logo: zhihan.jpg
-
-theme: Minima
-  skin: dark
-
-header_pages:
-  - about.md
-
-  
-
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
