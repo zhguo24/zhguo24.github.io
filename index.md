@@ -2,8 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a first year PhD student at the department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by Professor Irwin King. I received my M.S. degree from the University of Hong Kong in 2022, and my B.S. degree from the Beijing Institute of Technology in 2021.
 
+# Research Interests
+Machine Learning, Deep Learning, Natural Language Processing, Fact Checking, Fintech
+
+<!-- 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -121,3 +125,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
