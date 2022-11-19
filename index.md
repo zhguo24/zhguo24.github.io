@@ -3,10 +3,10 @@ layout: default
 ---
 
 # About
-I am a first year PhD student at the department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by Professor Irwin King. I received my M.S. degree from the University of Hong Kong in 2022, and my B.S. degree from the Beijing Institute of Technology in 2021.
+Hi. This is Zhihan GUO (郭芷含). I am a first year Ph.D. student at the [Department of Computer Science and Engineering] (https://www.cse.cuhk.edu.hk/) in [The Chinese University of Hong Kong] (https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Irwin King] (https://www.cse.cuhk.edu.hk/irwin.king/home). I received my M.S. degree from the [University of Hong Kong] (https://www.hku.hk/) in 2022, and my B.S. degree from the [Beijing Institute of Technology] (https://english.bit.edu.cn/) in 2021.
 
 # Research Interests
-Machine Learning, Deep Learning, Natural Language Processing, Fact Checking, Fintech
+Machine Learning, Natural Language Processing, Fact Checking, Fintech
 
 <!-- 
 [Link to another page](./another-page.html).
