@@ -1,4 +1,4 @@
-Zhihan GUO
+# Zhihan GUO
 
 Contact Info
 Email: zhguo22@cse.cuhk.edu.hk
