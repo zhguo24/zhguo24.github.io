@@ -2,11 +2,19 @@
 layout: default
 ---
 
-# About
+## About
 Hi. This is Zhihan GUO (郭芷含). I am a first year Ph.D. student at the [Department of Computer Science and Engineering] (https://www.cse.cuhk.edu.hk/) in [The Chinese University of Hong Kong] (https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Irwin King] (https://www.cse.cuhk.edu.hk/irwin.king/home). I received my M.S. degree from the [University of Hong Kong] (https://www.hku.hk/) in 2022, and my B.S. degree from the [Beijing Institute of Technology] (https://english.bit.edu.cn/) in 2021.
 
-# Research Interests
+## Research Interests
 Machine Learning, Natural Language Processing, Fact Checking, Fintech
+
+## Publications
+**2022**
+- **The Hierarchical Acquisition Method of Android System Service Information**
+
+  **Zhihan Guo**, Senlin Luo, Dongxiang Ke, Xiaonan Qin
+  
+  **Computer Engineering and Applications**
 
 <!-- 
 [Link to another page](./another-page.html).
